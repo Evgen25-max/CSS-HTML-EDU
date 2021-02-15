@@ -1,4 +1,4 @@
-## JetBrains Academy Frontend Developer 1-3 courses.
+## JetBrains Academy Frontend Developer first course.
 
 Html page with country cards. When you hover over the mouse, the card rotates to show the capital of that country.
 
