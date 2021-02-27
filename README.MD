@@ -6,4 +6,4 @@ What i learned:
 - Some html tags.
 - Multiple css properties.
 
-- GitHub:  [github.com/Evgen25-max](https://github.com/Evgen25-max)
+GitHub:  [github.com/Evgen25-max](https://github.com/Evgen25-max)
